@@ -38,3 +38,4 @@ step 2:
 clone the repository
 git clone
 
+https://github.com/gokulp2/simple_calculator.git
